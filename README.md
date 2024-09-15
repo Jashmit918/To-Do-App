@@ -1,7 +1,7 @@
 # To-Do App
 It is a Simple Task Management WebApp that help user to keep track of their tasks.
 
-## Technologies and Used:
+## Technologies Used:
 1. HTML
 2. CSS & Bootstrapping
 3. JS
